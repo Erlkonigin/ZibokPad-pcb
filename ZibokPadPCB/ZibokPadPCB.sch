@@ -1353,4 +1353,22 @@ Text GLabel 11050 2050 0    50   Input ~ 0
 ROT2
 Wire Wire Line
 	950  600  1150 600 
+Text GLabel 1350 5100 0    50   Input ~ 0
+ROW0
+Text GLabel 1350 5000 0    50   Input ~ 0
+ROW1
+Text GLabel 1350 4900 0    50   Input ~ 0
+ROW2
+Text GLabel 1350 4800 0    50   Input ~ 0
+ROW3
+Text GLabel 1350 4700 0    50   Input ~ 0
+ROW4
+Text GLabel 1350 5500 0    50   Input ~ 0
+COL0
+Text GLabel 1350 5400 0    50   Input ~ 0
+COL1
+Text GLabel 1350 4600 0    50   Input ~ 0
+COL2
+Text GLabel 1350 4500 0    50   Input ~ 0
+COL3
 $EndSCHEMATC
