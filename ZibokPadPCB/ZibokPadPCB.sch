@@ -719,13 +719,13 @@ F 3 "http://www2.st.com/resource/en/datasheet/CD00050750.pdf" H 4350 3150 50  00
 $EndComp
 Text GLabel 4150 2050 1    50   Input ~ 0
 VBUS
-Text GLabel 4650 2700 2    50   Input ~ 0
-DBus+
 Text GLabel 3650 2700 0    50   Input ~ 0
+DBus+
+Text GLabel 4650 2700 2    50   Input ~ 0
 Dbus-
-Text GLabel 3650 2900 0    50   Input ~ 0
-D-
 Text GLabel 4650 2900 2    50   Input ~ 0
+D-
+Text GLabel 3650 2900 0    50   Input ~ 0
 D+
 $Comp
 L power:GND #PWR0104
@@ -1351,4 +1351,6 @@ Wire Wire Line
 	11650 1850 11900 1850
 Text GLabel 11050 2050 0    50   Input ~ 0
 ROT2
+Wire Wire Line
+	950  600  1150 600 
 $EndSCHEMATC
